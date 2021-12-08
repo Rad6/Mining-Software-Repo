@@ -1,0 +1,19 @@
+{
+    "SCM_url": "https://github.com/apache/activemq.git",
+    "ITS_url": "https://issues.apache.org/jira/",
+    "local_repo_dir": "local_repo",
+    "project": [
+        "AMQ"
+    ],
+    "issuetype": [
+        "Bug"
+    ],
+    "status": [
+        "Resolved",
+        "Closed"
+    ],
+    "resolution": [
+        "Fixed"
+    ],
+    "until_day": 0
+}
